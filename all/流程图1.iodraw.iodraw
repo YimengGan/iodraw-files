@@ -110,15 +110,6 @@
         <mxCell id="xZUJOfdAEHoai85X7Pyd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-20" target="xZUJOfdAEHoai85X7Pyd-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VGEV6F4QeJHshWfRiP8a-3" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Single Factor&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="462" width="104" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="VGEV6F4QeJHshWfRiP8a-4" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Muliple Factor&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="459" y="487" width="104" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="VGEV6F4QeJHshWfRiP8a-5" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Inheriting SOTA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="461" y="527" width="104" height="29" as="geometry" />
-        </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-39" value="Two ways of Integration" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="681" width="230" height="49" as="geometry" />
         </mxCell>
@@ -189,6 +180,15 @@
         </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="VGEV6F4QeJHshWfRiP8a-50" source="VGEV6F4QeJHshWfRiP8a-30" target="VGEV6F4QeJHshWfRiP8a-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGEV6F4QeJHshWfRiP8a-3" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Single Factor&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VGEV6F4QeJHshWfRiP8a-50">
+          <mxGeometry x="304" y="8" width="104" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="VGEV6F4QeJHshWfRiP8a-4" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Muliple Factor&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VGEV6F4QeJHshWfRiP8a-50">
+          <mxGeometry x="304" y="49" width="104" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="VGEV6F4QeJHshWfRiP8a-5" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Inheriting SOTA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VGEV6F4QeJHshWfRiP8a-50">
+          <mxGeometry x="304" y="90" width="104" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
