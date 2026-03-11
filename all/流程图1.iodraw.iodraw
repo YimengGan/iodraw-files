@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-50" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Two ways of Integration&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="431" width="233" height="200" as="geometry">
+          <mxGeometry x="37" y="434" width="428" height="200" as="geometry">
             <mxRectangle x="324" y="539" width="32" height="155" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
