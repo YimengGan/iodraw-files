@@ -169,9 +169,6 @@
         <mxCell id="VGEV6F4QeJHshWfRiP8a-30" value="Integration" style="whiteSpace=wrap;html=1;" vertex="1" parent="VGEV6F4QeJHshWfRiP8a-50">
           <mxGeometry x="36" y="85.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VGEV6F4QeJHshWfRiP8a-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VGEV6F4QeJHshWfRiP8a-50" source="VGEV6F4QeJHshWfRiP8a-31" target="VGEV6F4QeJHshWfRiP8a-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-31" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Single-Modality&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="VGEV6F4QeJHshWfRiP8a-50">
           <mxGeometry x="179" y="45.5" width="100" height="40" as="geometry" />
         </mxCell>
@@ -192,6 +189,12 @@
         </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-5" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Inheriting SOTA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VGEV6F4QeJHshWfRiP8a-50">
           <mxGeometry x="304" y="90" width="104" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="VGEV6F4QeJHshWfRiP8a-54" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178" y="568" as="sourcePoint" />
+            <mxPoint x="221" y="616" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
