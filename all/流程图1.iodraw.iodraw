@@ -120,7 +120,7 @@
           <mxGeometry x="461" y="527" width="104" height="29" as="geometry" />
         </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-29" value="Two ways of Integration" style="swimlane;startSize=20;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;container=0;" vertex="1" parent="1">
-          <mxGeometry x="26" y="449" width="310" height="160" as="geometry" />
+          <mxGeometry x="24" y="443" width="310" height="160" as="geometry" />
         </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-39" value="Two ways of Integration" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="250" y="631" width="230" height="49" as="geometry" />
@@ -187,6 +187,9 @@
         </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="1" source="VGEV6F4QeJHshWfRiP8a-30" target="VGEV6F4QeJHshWfRiP8a-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGEV6F4QeJHshWfRiP8a-50" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="539" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
