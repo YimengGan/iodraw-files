@@ -185,10 +185,10 @@
           <mxGeometry x="389" y="55" width="67" height="73" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-24" value="文本向量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
-          <mxGeometry x="177" y="148" width="90" height="34" as="geometry" />
+          <mxGeometry x="174" y="148" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-27" value="word2vec" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
-          <mxGeometry x="235" y="109" width="60" height="30" as="geometry" />
+          <mxGeometry x="217" y="109" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
