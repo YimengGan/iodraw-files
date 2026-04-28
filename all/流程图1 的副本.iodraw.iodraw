@@ -181,8 +181,8 @@
         <mxCell id="zi0thAEGJtBJPjWZebKb-8" value="隐式&lt;div&gt;新闻文本因子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
           <mxGeometry x="157" y="120" width="90" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="zi0thAEGJtBJPjWZebKb-22" value="最终数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="zi0thAEGJtBJPjWZebKb-22" value="最终数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
+          <mxGeometry x="389" y="55" width="67" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
