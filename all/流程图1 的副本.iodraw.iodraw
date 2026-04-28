@@ -164,10 +164,10 @@
           <mxGeometry x="31" y="719" width="472" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-5" value="日频量价数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
-          <mxGeometry x="53" y="40" width="90" height="34" as="geometry" />
+          <mxGeometry x="50" y="43" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-6" value="金融新闻文本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
-          <mxGeometry x="53" y="118" width="90" height="34" as="geometry" />
+          <mxGeometry x="50" y="120" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-8" value="隐式因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
           <mxGeometry x="193" y="118" width="90" height="34" as="geometry" />
