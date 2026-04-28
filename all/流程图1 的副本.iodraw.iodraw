@@ -190,8 +190,8 @@
         <mxCell id="zi0thAEGJtBJPjWZebKb-27" value="word2vec" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
           <mxGeometry x="217" y="109" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zi0thAEGJtBJPjWZebKb-33" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="278" y="944" width="120" height="60" as="geometry" />
+        <mxCell id="zi0thAEGJtBJPjWZebKb-33" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
+          <mxGeometry x="244.5" y="79.5" width="134" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
