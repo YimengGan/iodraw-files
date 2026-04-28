@@ -130,10 +130,10 @@
         <mxCell id="VGEV6F4QeJHshWfRiP8a-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="VGEV6F4QeJHshWfRiP8a-50" source="VGEV6F4QeJHshWfRiP8a-30" target="VGEV6F4QeJHshWfRiP8a-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VGEV6F4QeJHshWfRiP8a-3" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Single Factor&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="VGEV6F4QeJHshWfRiP8a-50" vertex="1">
+        <mxCell id="VGEV6F4QeJHshWfRiP8a-3" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;单因子&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="VGEV6F4QeJHshWfRiP8a-50" vertex="1">
           <mxGeometry x="329" y="13" width="104" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="VGEV6F4QeJHshWfRiP8a-4" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Muliple Factors&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="VGEV6F4QeJHshWfRiP8a-50" vertex="1">
+        <mxCell id="VGEV6F4QeJHshWfRiP8a-4" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;多因子&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="VGEV6F4QeJHshWfRiP8a-50" vertex="1">
           <mxGeometry x="329" y="54" width="104" height="29" as="geometry" />
         </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-5" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Inheriting SOTA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="VGEV6F4QeJHshWfRiP8a-50" vertex="1">
