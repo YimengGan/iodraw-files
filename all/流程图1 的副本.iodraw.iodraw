@@ -164,7 +164,12 @@
           <mxGeometry x="40" y="683" width="472" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="zi0thAEGJtBJPjWZebKb-9" source="zi0thAEGJtBJPjWZebKb-5" target="zi0thAEGJtBJPjWZebKb-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="36" />
+              <mxPoint x="253" y="36" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-5" value="日频量价数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
           <mxGeometry x="33" y="18" width="90" height="34" as="geometry" />
