@@ -57,7 +57,7 @@
         <mxCell id="xZUJOfdAEHoai85X7Pyd-19" value="※Integration" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
           <mxGeometry x="13" y="90" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-11" value="Evaluation" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-11" value="评估" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
           <mxGeometry x="588" width="142" height="187" as="geometry">
             <mxRectangle width="142" height="187" as="alternateBounds" />
           </mxGeometry>
