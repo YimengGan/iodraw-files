@@ -160,17 +160,17 @@
         <mxCell id="zi0thAEGJtBJPjWZebKb-3" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="450" width="206" height="348" as="geometry" />
         </mxCell>
-        <mxCell id="zi0thAEGJtBJPjWZebKb-6" value="金融新闻文本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-3">
-          <mxGeometry x="102" y="39" width="90" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="zi0thAEGJtBJPjWZebKb-8" value="隐式因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-3">
-          <mxGeometry x="102" y="115" width="90" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-9" value="多模态数据据处理与对齐" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="31" y="719" width="472" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-5" value="日频量价数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
-          <mxGeometry x="72.5" y="79" width="90" height="34" as="geometry" />
+          <mxGeometry x="66" y="32" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zi0thAEGJtBJPjWZebKb-6" value="金融新闻文本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
+          <mxGeometry x="239" y="122" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zi0thAEGJtBJPjWZebKb-8" value="隐式因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
+          <mxGeometry x="320" y="23" width="90" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
