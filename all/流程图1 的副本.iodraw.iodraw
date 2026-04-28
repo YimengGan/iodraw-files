@@ -157,7 +157,7 @@
             <mxPoint x="322" y="36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zi0thAEGJtBJPjWZebKb-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zi0thAEGJtBJPjWZebKb-3" value="多模态数据据处理与对齐" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524" y="452" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
