@@ -161,7 +161,7 @@
           <mxGeometry x="530" y="450" width="206" height="348" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-9" value="多模态数据据处理与对齐" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="32" y="724" width="472" height="200" as="geometry" />
+          <mxGeometry x="32" y="725" width="472" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-5" value="日频量价数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
           <mxGeometry x="50" y="43" width="90" height="34" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="50" y="120" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-8" value="隐式因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
-          <mxGeometry x="205" y="118" width="90" height="34" as="geometry" />
+          <mxGeometry x="205" y="120" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-13" value="大模型处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
           <mxGeometry x="132" y="101" width="73" height="30" as="geometry" />
