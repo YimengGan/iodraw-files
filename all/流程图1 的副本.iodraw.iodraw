@@ -85,7 +85,7 @@
         <mxCell id="xZUJOfdAEHoai85X7Pyd-13" value="显性：券商研报" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="3nuBFxr9cyL0pnOWT2aG-16" vertex="1">
           <mxGeometry x="7" y="10" width="148" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="HKhyYCoRrk7kQQ_UY4Da-11" value="Implicit：News etc." style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="3nuBFxr9cyL0pnOWT2aG-16" vertex="1">
+        <mxCell id="HKhyYCoRrk7kQQ_UY4Da-11" value="隐性：财经新闻" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="3nuBFxr9cyL0pnOWT2aG-16" vertex="1">
           <mxGeometry x="7" y="48" width="151" height="29" as="geometry" />
         </mxCell>
         <mxCell id="HKhyYCoRrk7kQQ_UY4Da-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="3nuBFxr9cyL0pnOWT2aG-16" vertex="1">
