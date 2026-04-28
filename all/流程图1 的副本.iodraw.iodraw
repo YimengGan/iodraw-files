@@ -208,7 +208,7 @@
           <mxGeometry x="231.38" y="97.13" width="129.5" height="6.25" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-41" value="按交易日期对齐，并使用零向量填充保持维度一致性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-9">
-          <mxGeometry x="318" y="65" width="60" height="30" as="geometry" />
+          <mxGeometry x="316" y="39" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
