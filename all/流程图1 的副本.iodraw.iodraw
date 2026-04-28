@@ -157,7 +157,7 @@
             <mxPoint x="322" y="36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zi0thAEGJtBJPjWZebKb-3" value="多模态数据据处理与对齐" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zi0thAEGJtBJPjWZebKb-3" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="450" width="206" height="348" as="geometry" />
         </mxCell>
         <mxCell id="zi0thAEGJtBJPjWZebKb-5" value="日频量价数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zi0thAEGJtBJPjWZebKb-3">
@@ -172,8 +172,8 @@
         <mxCell id="zi0thAEGJtBJPjWZebKb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VGEV6F4QeJHshWfRiP8a-33" target="zi0thAEGJtBJPjWZebKb-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zi0thAEGJtBJPjWZebKb-9" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="612" width="200" height="200" as="geometry" />
+        <mxCell id="zi0thAEGJtBJPjWZebKb-9" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="31" y="719" width="472" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
