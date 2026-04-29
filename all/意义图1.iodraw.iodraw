@@ -14,10 +14,10 @@
           <mxGeometry x="194.5" y="470" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-9" value="人工构建范式：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;可解释但低效&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="108" y="565" width="120" height="60" as="geometry" />
+          <mxGeometry x="119" y="543" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-10" value="自动化方法：&lt;div&gt;高校但黑箱&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="258" y="565" width="120" height="60" as="geometry" />
+          <mxGeometry x="279" y="543" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-12" value="【两难困境：可解释vs效率】" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="651" width="268" height="30" as="geometry" />
