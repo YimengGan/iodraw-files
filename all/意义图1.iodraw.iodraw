@@ -22,6 +22,9 @@
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-10" value="自动化方法：&lt;div&gt;高校但黑箱&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="543" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Wjz-_wOrladFL9t8IkuJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wjz-_wOrladFL9t8IkuJ-12" target="Wjz-_wOrladFL9t8IkuJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-12" value="【两难困境：可解释vs效率】" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120.5" y="642" width="268" height="31" as="geometry" />
         </mxCell>
