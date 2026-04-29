@@ -23,10 +23,10 @@
           <mxGeometry x="120.5" y="643" width="268" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-13" value="LLM带来的新可能：&lt;div&gt;金融知识理解+逻辑生成能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="712" width="189" height="39" as="geometry" />
+          <mxGeometry x="160" y="708" width="189" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-14" value="本研究：LLM驱动的可解释因子挖掘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="153" y="790" width="217" height="39" as="geometry" />
+          <mxGeometry x="157" y="775" width="217" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
