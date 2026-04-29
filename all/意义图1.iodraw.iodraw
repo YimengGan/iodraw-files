@@ -23,7 +23,10 @@
           <mxGeometry x="171" y="712" width="189" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-14" value="本研究：LLM驱动的可解释因子挖掘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="791" width="217" height="39" as="geometry" />
+          <mxGeometry x="153" y="790" width="217" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjz-_wOrladFL9t8IkuJ-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="78" y="379" width="464" height="464" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
