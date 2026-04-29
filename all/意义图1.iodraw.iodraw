@@ -7,6 +7,9 @@
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78" y="379" width="353" height="458" as="geometry" />
         </mxCell>
+        <mxCell id="Wjz-_wOrladFL9t8IkuJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wjz-_wOrladFL9t8IkuJ-3" target="Wjz-_wOrladFL9t8IkuJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-3" value="量化投资的核心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="194.5" y="400" width="120" height="39" as="geometry" />
         </mxCell>
@@ -26,7 +29,7 @@
           <mxGeometry x="160" y="708" width="189" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-14" value="本研究：LLM驱动的可解释因子挖掘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157" y="775" width="217" height="39" as="geometry" />
+          <mxGeometry x="146" y="776" width="217" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
