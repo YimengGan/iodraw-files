@@ -10,6 +10,9 @@
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-5" value="因子挖掘是关键环节" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="497" width="120" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="Wjz-_wOrladFL9t8IkuJ-9" value="人工构建范式：&lt;div&gt;可解释但低效&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="603" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
