@@ -4,14 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Wjz-_wOrladFL9t8IkuJ-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="49" y="381" width="381" height="381" as="geometry" />
-        </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-3" value="量化投资的核心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="186" y="412" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-5" value="因子挖掘是关键环节" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="497" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjz-_wOrladFL9t8IkuJ-7" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="533" width="221" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjz-_wOrladFL9t8IkuJ-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Wjz-_wOrladFL9t8IkuJ-7">
+          <mxGeometry x="-160" y="-142" width="381" height="381" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
