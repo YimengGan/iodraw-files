@@ -17,7 +17,10 @@
           <mxGeometry x="258" y="565" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-12" value="【两难困境：可解释vs效率】" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="127" y="651" width="251" height="30" as="geometry" />
+          <mxGeometry x="110" y="651" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjz-_wOrladFL9t8IkuJ-13" value="量化投资的核心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="422" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
