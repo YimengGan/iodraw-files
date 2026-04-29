@@ -23,13 +23,16 @@
           <mxGeometry x="279" y="543" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-12" value="【两难困境：可解释vs效率】" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120.5" y="643" width="268" height="30" as="geometry" />
+          <mxGeometry x="120.5" y="642" width="268" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-13" value="LLM带来的新可能：&lt;div&gt;金融知识理解+逻辑生成能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="708" width="189" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-14" value="本研究：LLM驱动的可解释因子挖掘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="146" y="776" width="217" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjz-_wOrladFL9t8IkuJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wjz-_wOrladFL9t8IkuJ-20" target="Wjz-_wOrladFL9t8IkuJ-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-20" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="173" y="604" width="167" height="24" as="geometry" />
