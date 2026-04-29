@@ -13,8 +13,8 @@
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-9" value="人工构建范式：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;可解释但低效&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="603" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wjz-_wOrladFL9t8IkuJ-10" value="人工构建范式：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;可解释但低效&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251" y="613" width="120" height="60" as="geometry" />
+        <mxCell id="Wjz-_wOrladFL9t8IkuJ-10" value="自动化方法：&lt;div&gt;高校但黑箱&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="603" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
