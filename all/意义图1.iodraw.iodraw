@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="EC3sivCjY8LD_mf1CoLg">
-    <mxGraphModel dx="1014" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="768" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="279" y="543" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-12" value="【两难困境：可解释vs效率】" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="651" width="268" height="30" as="geometry" />
+          <mxGeometry x="120.5" y="623" width="268" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wjz-_wOrladFL9t8IkuJ-13" value="LLM带来的新可能：&lt;div&gt;金融知识理解+逻辑生成能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171" y="712" width="189" height="39" as="geometry" />
