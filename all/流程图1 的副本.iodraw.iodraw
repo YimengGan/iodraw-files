@@ -125,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-33" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;多模态&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="VGEV6F4QeJHshWfRiP8a-50" vertex="1">
-          <mxGeometry x="187" y="137" width="258" height="40" as="geometry" />
+          <mxGeometry x="187" y="137" width="259" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGEV6F4QeJHshWfRiP8a-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="VGEV6F4QeJHshWfRiP8a-50" source="VGEV6F4QeJHshWfRiP8a-30" target="VGEV6F4QeJHshWfRiP8a-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
